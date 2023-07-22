@@ -1,1 +1,1 @@
-Trabalhando com estruturas de dados em Python: listas, tuplas, dicionários
+Trabalhando com estruturas de dados em Python: listas, tuplas, conjuntos (set) e dicionários
