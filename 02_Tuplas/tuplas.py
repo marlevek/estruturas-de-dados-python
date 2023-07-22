@@ -36,3 +36,6 @@ print(matriz[:][2])
 carros = ('gol', 'corsa', 'palio')
 for indice, carro in enumerate(carros):
     print(indice, '-', carro)
+    
+carros = ("gol")
+print(isinstance(carros, tuple))
