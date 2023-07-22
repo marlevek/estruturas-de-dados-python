@@ -13,6 +13,7 @@ lista_copia = lista.copy()
 print(lista_copia)
 
 # mostrando que a lista e sua cópia são diferentes, por isso o que é feito na cópia não reflete na lista original
+
 print(id(lista), id(lista_copia))
 
 lista_copia.insert(2, 0)
